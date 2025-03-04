@@ -1,9 +1,9 @@
-package com.github.xdftr.testdrivenai.services
+package ee.cryptek.testdrivenai.services
 
 import com.intellij.openapi.components.Service
 import com.intellij.openapi.diagnostic.thisLogger
 import com.intellij.openapi.project.Project
-import com.github.xdftr.testdrivenai.MyBundle
+import ee.cryptek.testdrivenai.MyBundle
 
 @Service(Service.Level.PROJECT)
 class MyProjectService(project: Project) {

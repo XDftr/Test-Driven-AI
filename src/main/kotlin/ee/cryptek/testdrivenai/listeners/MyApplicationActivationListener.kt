@@ -1,4 +1,4 @@
-package com.github.xdftr.testdrivenai.listeners
+package ee.cryptek.testdrivenai.listeners
 
 import com.intellij.openapi.application.ApplicationActivationListener
 import com.intellij.openapi.diagnostic.thisLogger

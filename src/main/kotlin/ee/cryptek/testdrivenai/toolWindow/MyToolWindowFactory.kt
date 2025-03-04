@@ -1,4 +1,4 @@
-package com.github.xdftr.testdrivenai.toolWindow
+package ee.cryptek.testdrivenai.toolWindow
 
 import com.intellij.openapi.components.service
 import com.intellij.openapi.diagnostic.thisLogger
@@ -8,8 +8,8 @@ import com.intellij.openapi.wm.ToolWindowFactory
 import com.intellij.ui.components.JBLabel
 import com.intellij.ui.components.JBPanel
 import com.intellij.ui.content.ContentFactory
-import com.github.xdftr.testdrivenai.MyBundle
-import com.github.xdftr.testdrivenai.services.MyProjectService
+import ee.cryptek.testdrivenai.MyBundle
+import ee.cryptek.testdrivenai.services.MyProjectService
 import javax.swing.JButton
 
 
